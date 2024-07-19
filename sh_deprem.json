@@ -1,8 +1,4 @@
 [
-{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"sehri_numa"},
-{"type":"table","name":"sh_deprem","database":"sehri_numa","data":
-[
 {"id":"42","sehir":"1","ilce":"Aladağ","risk":"Orta"},
 {"id":"43","sehir":"1","ilce":"Ceyhan","risk":"Yüksek"},
 {"id":"44","sehir":"1","ilce":"Çukurova","risk":"Orta"},
@@ -973,5 +969,4 @@
 {"id":"1035","sehir":"73","ilce":"Silopi","risk":"Yüksek"},
 {"id":"1036","sehir":"73","ilce":"Uludere","risk":"Yüksek"}
 ]
-}
-]
+
